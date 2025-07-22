@@ -17,7 +17,7 @@ import java.time.LocalDateTime;
 
 
 @Controller
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin("https://chatspace915.onrender.com")
 public class ChatController {
 
 
